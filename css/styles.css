@@ -1,8 +1,41 @@
 * {
   font-size: 125%;
+  color: #ccc;
+  text-align: center;
+}
+
+form {
+  color: #000;
 }
 
 .displayPainting {
   align-items: center;
-  
+
+}
+.jumbotron {
+  background-color: rgba(0,0,0,0);
+}
+
+.jumbotron h2{
+  font-size: 50px;
+}
+.container {
+  background-color: rgba(100, 6, 83, 0.68);
+  min-height: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+body {
+  background-image: url(../img/bg.jpg);
+  background-position: center;
+  background-size: cover;
+  height:100%;
+
+}
+
+html {
+  height: 100%;
 }
