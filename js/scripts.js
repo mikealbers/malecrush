@@ -22,7 +22,7 @@ $(document).ready(function() {
     }else if (height === 'tall' && age === 'old' && hobby === 'books'){
       $('#displayPainting').html('<p>Morgan Freeman</p><img src="img/morgan.jpg">');
     }else if (height === 'tall' && age === 'old' && hobby === 'theater'){
-      $('#displayPainting').html('<p>Samuel Jackson</p><img src="img/Jackson.jpg">');
+      $('#displayPainting').html('<p>Samuel Jackson</p><img src="img/jackson.jpg">');
     }else if (height === 'tall' && age === 'old' && hobby === 'politics'){
       $('#displayPainting').html('<p>Arnold Schwartz</p><img src="img/arnold.jpg">');
     }else if (height === 'short' && age === 'young' && hobby === 'music'){
