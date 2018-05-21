@@ -9,7 +9,7 @@ https://mikealbers.github.io/malecrush/
 ## Description
 
 Quiz to find you celebrity crush.
-<kbd><img src="src/img/crush.gif" style="width: 500px;"></kbd>
+<kbd><img src="img/crush.gif" style="width: 500px;"></kbd>
 
 
 ## Support and contact details
